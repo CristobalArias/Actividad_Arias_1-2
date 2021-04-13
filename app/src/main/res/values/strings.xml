@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad 1.2</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="nombre1">Nombre</string>
+    <string name="nombre2">Nombre</string>
+    <string name="rut1">Rut</string>
+    <string name="rut2">Rut</string>
+    <string name="Rut">Rut</string>
+    <string name="Nombre">Nombre</string>
+</resources>
