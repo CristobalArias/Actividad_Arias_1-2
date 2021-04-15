@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         txtRut = (EditText) findViewById(R.id.txtRut);
     }
 
-    //método para enviar
-    public void Enviar(View view){
+    //Método para enviar
+    public void EnviarDatos(View view){
         Intent in = new Intent(this, MainActivity2.class);
         in.putExtra("dato1",txtNombre.getText().toString());
         in.putExtra("dato2",txtRut.getText().toString());

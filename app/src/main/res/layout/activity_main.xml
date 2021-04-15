@@ -32,7 +32,7 @@
         android:layout_marginTop="116dp"
         android:layout_marginEnd="159dp"
         android:layout_marginRight="159dp"
-        android:onClick="Enviar"
+        android:onClick="EnviarDatos"
         android:text="@string/enviar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.4"
