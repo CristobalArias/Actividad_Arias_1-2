@@ -1,4 +1,4 @@
-package com.cristobal.Intent.GitHub;
+ package com.cristobal.Intent.GitHub;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -28,4 +28,6 @@ public class MainActivity extends AppCompatActivity {
         in.putExtra("dato2",txtRut.getText().toString());
         startActivity(in);
     }
+
+    //hola
 }
